@@ -35,6 +35,7 @@ public class Ejecutor {
             correo = sc.nextLine();
             System.out.println("Ingrese el sueldo mensual: ");
             sueldo = sc.nextDouble();
+            sc.nextLine();
             System.out.println("Ingrese el mes del sueldo recibido: ");
             mes = sc.nextLine();
             
